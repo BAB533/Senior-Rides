@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Time duration?">049da651972ab110a160fbafe153af30</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>kahner</sys_created_by>
+        <sys_created_on>2023-11-25 23:49:39</sys_created_on>
+        <sys_id>f1fdaa91972ab110a160fbafe153af9c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>30 minutes</sys_name>
+        <sys_package display_value="Senior Rides" source="x_1128723_senior_0">6c3b547497623110a160fbafe153af13</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Senior Rides">6c3b547497623110a160fbafe153af13</sys_scope>
+        <sys_update_name>question_choice_f1fdaa91972ab110a160fbafe153af9c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-25 23:55:04</sys_updated_on>
+        <text>30 minutes</text>
+        <value>30_minutes</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f1fdaa91972ab110a160fbafe153af9c"/>
+</record_update>
