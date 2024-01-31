@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Senior Rides">cc0c6611972ab110a160fbafe153af01</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>pick_up_time</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,23 +38,23 @@
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
-        <map_to_field>true</map_to_field>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>what_time_do_you_need_to_be_picked_up</name>
-        <order>300</order>
+        <name>time_duration</name>
+        <order>400</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>What time do you need to be picked up?</question_text>
+        <question_text>Time duration?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table>x_1128723_senior_0_ride</record_producer_table>
+        <record_producer_table/>
         <reference/>
         <reference_qual>undefined</reference_qual>
         <reference_qual_condition>undefined</reference_qual_condition>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>kahner</sys_created_by>
-        <sys_created_on>2023-11-27 21:49:08</sys_created_on>
-        <sys_id>8c7d6251972ab110a160fbafe153af05</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>What time do you need to be picked up?</sys_name>
+        <sys_created_on>2023-11-16 00:27:37</sys_created_on>
+        <sys_id>8ee8221d97e6b110a160fbafe153afbf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Time duration?</sys_name>
         <sys_package display_value="Senior Rides" source="x_1128723_senior_0">6c3b547497623110a160fbafe153af13</sys_package>
         <sys_policy/>
         <sys_scope display_value="Senior Rides">6c3b547497623110a160fbafe153af13</sys_scope>
-        <sys_update_name>item_option_new_8c7d6251972ab110a160fbafe153af05</sys_update_name>
+        <sys_update_name>item_option_new_8ee8221d97e6b110a160fbafe153afbf</sys_update_name>
         <sys_updated_by>kahner</sys_updated_by>
-        <sys_updated_on>2023-11-27 21:58:19</sys_updated_on>
+        <sys_updated_on>2023-11-16 00:27:39</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>10</type>
+        <type>5</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=8c7d6251972ab110a160fbafe153af05"/>
-    <fx_price action="delete_multiple" query="id=8c7d6251972ab110a160fbafe153af05"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ee8221d97e6b110a160fbafe153afbf"/>
+    <fx_price action="delete_multiple" query="id=8ee8221d97e6b110a160fbafe153afbf"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>8c7d6251972ab110a160fbafe153af05</id>
+        <id>8ee8221d97e6b110a160fbafe153afbf</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>kahner</sys_created_by>
-        <sys_created_on>2023-11-16 00:44:10</sys_created_on>
-        <sys_id>d78de291972ab110a160fbafe153af36</sys_id>
+        <sys_created_on>2023-11-16 00:27:37</sys_created_on>
+        <sys_id>b0c96a5d97e6b110a160fbafe153af8f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>kahner</sys_updated_by>
-        <sys_updated_on>2023-11-16 00:44:10</sys_updated_on>
+        <sys_updated_on>2023-11-16 00:27:37</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>8c7d6251972ab110a160fbafe153af05</id>
+        <id>8ee8221d97e6b110a160fbafe153afbf</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>kahner</sys_created_by>
-        <sys_created_on>2023-11-16 00:44:10</sys_created_on>
-        <sys_id>5b8de291972ab110a160fbafe153af35</sys_id>
+        <sys_created_on>2023-11-16 00:27:37</sys_created_on>
+        <sys_id>34c96a5d97e6b110a160fbafe153af8e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>kahner</sys_updated_by>
-        <sys_updated_on>2023-11-16 00:44:10</sys_updated_on>
+        <sys_updated_on>2023-11-16 00:27:37</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

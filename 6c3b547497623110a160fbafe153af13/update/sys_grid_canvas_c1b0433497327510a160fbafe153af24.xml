@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Senior Rides Monitor - New Tab">8db0433497327510a160fbafe153af22</legacy_page>
+        <name>PA Senior Rides Monitor - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-26 23:06:34</sys_created_on>
+        <sys_id>c1b0433497327510a160fbafe153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Senior Rides Monitor - New Tab</sys_name>
+        <sys_package display_value="Senior Rides" source="x_1128723_senior_0">6c3b547497623110a160fbafe153af13</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Senior Rides">6c3b547497623110a160fbafe153af13</sys_scope>
+        <sys_update_name>sys_grid_canvas_c1b0433497327510a160fbafe153af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-26 23:06:34</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1128723_senior_0_rides" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_id>5aa7b7b897f27510a160fbafe153af6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_id>dea7b7b897f27510a160fbafe153af6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pick_up_location</element>
+            <list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_id>52a7b7b897f27510a160fbafe153af70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pick_up_time</element>
+            <list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_id>d2a7b7b897f27510a160fbafe153af70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_duration</element>
+            <list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_id>56a7b7b897f27510a160fbafe153af70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_id>d6a7b7b897f27510a160fbafe153af70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_of_birth</element>
+            <list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_id>5aa7b7b897f27510a160fbafe153af70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1128723_senior_0_rides</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9aa7b7b897f27510a160fbafe153af6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1128723_senior_0_rides</sys_name>
+            <sys_package display_value="Senior Rides" source="x_1128723_senior_0">6c3b547497623110a160fbafe153af13</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Senior Rides">6c3b547497623110a160fbafe153af13</sys_scope>
+            <sys_update_name>sys_ui_list_x_1128723_senior_0_rides_null</sys_update_name>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Senior Rides">6c3b547497623110a160fbafe153af13</application>
+        <file_path/>
+        <instance_id>956610e3dbf35bc08264f70fbf96192d</instance_id>
+        <instance_name>dev70294</instance_name>
+        <name>sys_ui_list_x_1128723_senior_0_rides_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1128723_senior_0_rides" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_id>5aa7b7b897f27510a160fbafe153af6f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>status</element><list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_id>dea7b7b897f27510a160fbafe153af6f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>pick_up_location</element><list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_id>52a7b7b897f27510a160fbafe153af70</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>pick_up_time</element><list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_id>d2a7b7b897f27510a160fbafe153af70</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>time_duration</element><list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_id>56a7b7b897f27510a160fbafe153af70</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_by</element><list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_id>d6a7b7b897f27510a160fbafe153af70</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>date_of_birth</element><list_id display_value="x_1128723_senior_0_rides" element="NULL" name="x_1128723_senior_0_rides" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9aa7b7b897f27510a160fbafe153af6e</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_id>5aa7b7b897f27510a160fbafe153af70</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1128723_senior_0_rides</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>kahner</sys_created_by><sys_created_on>2023-11-27 03:06:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9aa7b7b897f27510a160fbafe153af6e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1128723_senior_0_rides</sys_name><sys_package display_value="Senior Rides" source="x_1128723_senior_0">6c3b547497623110a160fbafe153af13</sys_package><sys_policy/><sys_scope display_value="Senior Rides">6c3b547497623110a160fbafe153af13</sys_scope><sys_update_name>sys_ui_list_x_1128723_senior_0_rides_null</sys_update_name><sys_updated_by>kahner</sys_updated_by><sys_updated_on>2023-11-27 03:06:41</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1852263484</payload_hash>
+        <record_name>rides</record_name>
+        <reverted_from/>
+        <source>ac3b547497623110a160fbafe153af15</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kahner</sys_created_by>
+        <sys_created_on>2023-11-27 03:06:41</sys_created_on>
+        <sys_id>d2a7b7b897f27510a160fbafe153af73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0ebe4cd40000001</sys_recorded_at>
+        <sys_updated_by>kahner</sys_updated_by>
+        <sys_updated_on>2023-11-27 03:06:41</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>5aa7b7b855f27510181e384a8a28f572</update_guid>
+        <update_guid_history>5aa7b7b855f27510181e384a8a28f572:1852263484,44340a2cc27ef1102dadd9188f28ba8a:-987403742,0047e870b3a231106645c9864dcd2e00:-1831538742,2123e47c2f62311050caabfbea76b8fa:472362584,9013a47c98623110672861849edd1240:85790856,f662a8f8d96231102e0727aa238435fc:-232787418,ea52683c9c623110dc4e8f93b3382d0b:-2072495124,c012243c6d6231109a0030f6cb9e3664:1513260501,afa1acf84e623110545b0f39b9898081:-1471000428</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kahner</sys_created_by>
+        <sys_created_on>2023-11-27 04:31:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>3b9a4fe2e2bb4597aa81697c4ff9e089</sys_id>
+        <sys_metadata>9aa7b7b897f27510a160fbafe153af6e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1128723_senior_0_rides</sys_name>
+        <sys_package display_value="Senior Rides" source="x_1128723_senior_0">6c3b547497623110a160fbafe153af13</sys_package>
+        <sys_parent display_value="">b31cd0b497623110a160fbafe153afe4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Senior Rides">6c3b547497623110a160fbafe153af13</sys_scope>
+        <sys_scope_delete display_value="">a0439256ac6644d8a8fc58b073237a40</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1128723_senior_0_rides_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1128723_senior_0_rides_null">d2a7b7b897f27510a160fbafe153af73</sys_update_version>
+        <sys_updated_by>kahner</sys_updated_by>
+        <sys_updated_on>2023-11-27 04:31:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

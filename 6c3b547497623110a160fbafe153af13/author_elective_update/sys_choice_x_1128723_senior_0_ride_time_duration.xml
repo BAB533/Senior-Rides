@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="time_duration" table="x_1128723_senior_0_ride" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>time_duration</element>
+            <name>x_1128723_senior_0_ride</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 04:13:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>time_duration</sys_name>
+            <sys_package display_value="Senior Rides" source="x_1128723_senior_0">6c3b547497623110a160fbafe153af13</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Senior Rides">6c3b547497623110a160fbafe153af13</sys_scope>
+            <sys_update_name>sys_choice_x_1128723_senior_0_ride_time_duration</sys_update_name>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 04:13:21</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_duration</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>30 minutes</label>
+            <language>en</language>
+            <name>x_1128723_senior_0_ride</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 04:13:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 04:13:21</sys_updated_on>
+            <value>30_minutes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_duration</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>60 minutes</label>
+            <language>en</language>
+            <name>x_1128723_senior_0_ride</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 04:13:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 04:13:21</sys_updated_on>
+            <value>60_minutes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_duration</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>90 minutes</label>
+            <language>en</language>
+            <name>x_1128723_senior_0_ride</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 04:13:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 04:13:21</sys_updated_on>
+            <value>90_minutes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_duration</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>120 minutes</label>
+            <language>en</language>
+            <name>x_1128723_senior_0_ride</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>kahner</sys_created_by>
+            <sys_created_on>2023-11-27 04:13:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kahner</sys_updated_by>
+            <sys_updated_on>2023-11-27 04:13:21</sys_updated_on>
+            <value>120_minutes</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

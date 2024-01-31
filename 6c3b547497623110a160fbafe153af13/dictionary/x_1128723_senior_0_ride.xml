@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f1e4c00997367510a160fbafe153af2e" extends="task" label="ride" max_length="40" name="x_1128723_senior_0_ride" type="collection">
+        <element label="Date of birth" max_length="4" name="date_of_birth" type="string"/>
+        <element label="Pick up location" max_length="32" name="pick_up_location" reference="cmn_location" type="reference"/>
+        <element label="Pick up time" max_length="40" name="pick_up_time" type="glide_date_time"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="submitted"/>
+                <element inactive_on_update="false" label="Driver on the way" sequence="1" value="driver_on_the_way"/>
+                <element inactive_on_update="false" label="In journey" sequence="2" value="in_journey"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
+            </choice>
+        </element>
+        <element choice="3" label="Time duration" max_length="40" name="time_duration" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="30 minutes" sequence="0" value="30_minutes"/>
+                <element inactive_on_update="false" label="60 minutes" sequence="1" value="60_minutes"/>
+                <element inactive_on_update="false" label="90 minutes" sequence="2" value="90_minutes"/>
+                <element inactive_on_update="false" label="120 minutes" sequence="3" value="120_minutes"/>
+            </choice>
+        </element>
+    </element>
+</database>
